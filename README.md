@@ -48,7 +48,9 @@ Includes 4 interactive pages:
 
 📄 [View Analysis (Code) (PDF)](./documents/dataanalysis-compl.pdf.pdf)
 
-PowerBI:
+### 📊 Power BI Dashboard
+
+![Power BI Dashboard](https://i.imgur.com/HJHEcGv.png)
 
 
 
